@@ -20,11 +20,6 @@ Me especializo en análisis y visualización de datos, con experiencia en herram
 
 ---
 
-### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenny--Lopez--Rayo-blue?logo=linkedin)](https://www.linkedin.com/in/kenny-yafer-lopez-rayo-4b6310178/)
